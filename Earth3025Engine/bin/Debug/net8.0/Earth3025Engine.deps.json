@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Earth3025Engine/1.0.0": {
+        "runtime": {
+          "Earth3025Engine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Earth3025Engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

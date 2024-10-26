@@ -1,0 +1,14 @@
+E:\Mark\Repos\Earth3025\Earth3025Engine\obj\Debug\net8.0\Earth3025Engine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mark\Repos\Earth3025\Earth3025Engine\obj\Debug\net8.0\Earth3025Engine.AssemblyInfoInputs.cache
+E:\Mark\Repos\Earth3025\Earth3025Engine\obj\Debug\net8.0\Earth3025Engine.AssemblyInfo.cs
+E:\Mark\Repos\Earth3025\Earth3025Engine\obj\Debug\net8.0\Earth3025Engine.csproj.CoreCompileInputs.cache
+E:\Mark\Repos\Earth3025\Earth3025Engine\bin\Debug\net8.0\Earth3025Engine.exe
+E:\Mark\Repos\Earth3025\Earth3025Engine\bin\Debug\net8.0\Earth3025Engine.deps.json
+E:\Mark\Repos\Earth3025\Earth3025Engine\bin\Debug\net8.0\Earth3025Engine.runtimeconfig.json
+E:\Mark\Repos\Earth3025\Earth3025Engine\bin\Debug\net8.0\Earth3025Engine.dll
+E:\Mark\Repos\Earth3025\Earth3025Engine\bin\Debug\net8.0\Earth3025Engine.pdb
+E:\Mark\Repos\Earth3025\Earth3025Engine\obj\Debug\net8.0\Earth3025Engine.dll
+E:\Mark\Repos\Earth3025\Earth3025Engine\obj\Debug\net8.0\refint\Earth3025Engine.dll
+E:\Mark\Repos\Earth3025\Earth3025Engine\obj\Debug\net8.0\Earth3025Engine.pdb
+E:\Mark\Repos\Earth3025\Earth3025Engine\obj\Debug\net8.0\Earth3025Engine.genruntimeconfig.cache
+E:\Mark\Repos\Earth3025\Earth3025Engine\obj\Debug\net8.0\ref\Earth3025Engine.dll
